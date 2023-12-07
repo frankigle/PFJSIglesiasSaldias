@@ -1,0 +1,125 @@
+{
+    "elementosOpc": [
+        {
+            "prop": "elem",
+            "id": "a",
+            "elemento": "Surf Rack",
+            "precio": 15,
+            "img": "./Pictures/surfRack.jpg"
+        },
+        {
+            "prop": "elem",
+            "id": "b",
+            "elemento": "Baulera",
+            "precio": 15,
+            "img": "./"
+        },
+        {
+            "prop": "elem",
+            "id": "c",
+            "elemento": "Phone Holder",
+            "precio": 5,
+            "img": "./"
+        },
+        {
+            "prop": "elem",
+            "id": "d",
+            "elemento": "Casco",
+            "precio": 0,
+            "img": "./"
+        }
+    ],
+    "scooters": [
+        {
+            "id": "1",
+            "modelo": "black",
+            "marca": "Sym",
+            "cc": 50,
+            "precio": 120,
+            "img": "./Pictures/symBlack.jpg",
+            "info": [
+                "Surf Rack",
+                "Baulera",
+                "Phone Holder"
+            ]
+        },
+        {
+            "id": "2",
+            "modelo": "lead",
+            "marca": "Honda",
+            "cc": 50,
+            "precio": 120,
+            "img": "./Pictures/honda.jpg",
+            "info": [
+                "Surf Rack",
+                "Baulera",
+                "Phone Holder"
+            ]
+        },
+        {
+            "id": "3",
+            "modelo": "Sicilian Lemon",
+            "marca": "some",
+            "cc": 50,
+            "precio": 120,
+            "img": "./Pictures/sicilianLemon.jpg",
+            "info": [
+                "Surf Rack",
+                "Baulera",
+                "Phone Holder"
+            ]
+        },
+        {
+            "id": "4",
+            "modelo": "Blanca",
+            "marca": "Aprilia",
+            "cc": 100,
+            "precio": 150,
+            "img": "./Pictures/apriliaWhite.jpg",
+            "info": [
+                "Casco",
+                "Baulera",
+                "Phone Holder"
+            ]
+        },
+        {
+            "id": "5",
+            "modelo": "luxury",
+            "marca": "Vespa",
+            "cc": 100,
+            "precio": 150,
+            "img": "./Pictures/57__30300.1570097252.jpg",
+            "info": [
+                "Casco",
+                "Baulera",
+                "Phone Holder"
+            ]
+        },
+        {
+            "id": "6",
+            "modelo": "biz",
+            "marca": "Honda",
+            "cc": 100,
+            "precio": 150,
+            "img": "./Pictures/images.jpeg",
+            "info": [
+                "Casco",
+                "Baulera",
+                "Phone Holder"
+            ]
+        },
+        {
+            "id": "7",
+            "modelo": "Vespa Europa",
+            "marca": "Vespa",
+            "cc": 100,
+            "precio": 150,
+            "img": "./Pictures/vespa.jpeg",
+            "info": [
+                "Casco",
+                "Baulera",
+                "Phone Holder"
+            ]
+        }
+    ]
+}
